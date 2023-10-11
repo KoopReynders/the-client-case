@@ -29,7 +29,7 @@ User Story:
 
 <img width="887" alt="FDND contactpagina" src="https://user-images.githubusercontent.com/1391509/137478299-c46c4903-7db8-4305-a072-8ba4c92e31fd.png">
 
-_Layout van de homenpage_
+_Layout van de homepage_
 
 
 ## Gebruik
@@ -45,7 +45,7 @@ In het onderdeel _contactgegevens_ staan het telefoonnummer en email-adres van h
 
 ### Routebeschrijving
 
-In het onderdeel _routebeschrijving_ staan de adresgegevens van de opleiding en wordt met behulp van foto's getoond hoe een bezoeker vanaf station Amstel bij het lokaal kan komen. Als iemand voor het eerst in het gebouw de Leeuwenburg komt is dat nogal een doolhof. Daarom is de routebeschrijving met behulp van foto's stap-voor-stap uitgelegd. Een bezoeker kan met een mobiel in de hand in 9 stappen bij het lokaal komen.Bij elke foto staat een duidelijke beschrijving en is te zien welke stap van de 9 het is. 
+In het onderdeel _routebeschrijving_ staan de adresgegevens van de opleiding en wordt met behulp van foto's getoond hoe een bezoeker vanaf station Amstel bij het lokaal kan komen. Als iemand voor het eerst in het gebouw de Leeuwenburg komt is dat nogal een doolhof. Daarom is de routebeschrijving met behulp van foto's stap-voor-stap uitgelegd. Een bezoeker kan met een mobiel in de hand in 9 stappen bij het lokaal komen. Bij elke foto staat een duidelijke beschrijving en is te zien welke stap van de 9 het is. 
 
 ![image](https://user-images.githubusercontent.com/1391509/195097814-cd3b3468-815e-478d-ada3-464c36a5ca68.png)
 
@@ -80,7 +80,7 @@ Hieronder staat de basis structuur uitgelegd met de setting in de [HEAD](#HEAD) 
   De structuur van de body is [HEADER](#HEADER), [MAIN](#MAIN) en [FOOTER](#FOOTER): 
   
   ##### HEADER
-  In de header staat de H1 titel en eerste paragraaf. In de eerste paragraaf wordt gellinkt naar de contactgegevens en routebeschrijving.
+  In de header staat de H1 titel en eerste paragraaf. In de eerste paragraaf wordt gelinkt naar de contactgegevens en routebeschrijving.
   
   ##### MAIN
   In de main staan twee sections, de section contactgegevens met een id en een section voor de routebeschrijving met een id. De id's worden gebruikt om vanuit de eerste paragraaf te linken. 
@@ -144,7 +144,7 @@ Media query @Media width https://developer.mozilla.org/en-US/docs/Web/CSS/@media
 
 Scroll Behavior Smooth  https://css-tricks.com/almanac/properties/s/scroll-behavior/
 
-Google Font 'Open Sans https://fonts.googleapis.com/css2?family=Open+Sans
+Google Font 'Open Sans' https://fonts.googleapis.com/css2?family=Open+Sans
 
 FDND Global stylesheet https://styleguide.fdnd.nl/fdnd.css
 
