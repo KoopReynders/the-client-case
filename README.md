@@ -17,7 +17,8 @@ Dit is een redesign van de contact pagina van de FDND website.
 ## Beschrijving
 
 Voor (nieuwe) studenten, colllega's en opdrachtgevers heeft FDND een contactpagina met de contactgegevens zoals een email-adres en telefoonnummer, en een routebeschrijving naar het leslokaal. 
-<br>Met behulp van foto's is een routebeschrijving genaakt waarmee bezoeker vanaf station Amstel bij het FDND lokaal kunnen komen. 
+
+Met behulp van foto's is een routebeschrijving gemaakt waarmee bezoeker vanaf station Amstel bij het FDND lokaal kunnen komen. 
 
 De pagina is responsive en is Mobile first ontworpen en gemaakt. 
 
